@@ -18,6 +18,7 @@ print the len(words())
 ### Step 6: 
 end of the program
 ## PROGRAM:
+```
 #to find word count using command line arguments
 #developed by:vignesh v
 #register no:23002301
@@ -27,6 +28,7 @@ if len(sys.argv) == 2:
     print(f"Number of words: {word_count}")
 else:
     print("Usage: python word_count.py <text>")
+```
 ### OUTPUT:
 <img width="326" alt="image" src="https://github.com/Vigneshv-23/command-line-arguments-to-count-word/assets/110780412/34126686-6b44-4167-8dec-6b8d4e0619e5">
 <img width="337" alt="image" src="https://github.com/Vigneshv-23/command-line-arguments-to-count-word/assets/110780412/ab6ebf31-cc86-493f-89d7-cdb4f9942b72">
