@@ -31,7 +31,10 @@ else:
 ```
 ### OUTPUT:
 <img width="326" alt="image" src="https://github.com/Vigneshv-23/command-line-arguments-to-count-word/assets/110780412/34126686-6b44-4167-8dec-6b8d4e0619e5">
+
 <img width="337" alt="image" src="https://github.com/Vigneshv-23/command-line-arguments-to-count-word/assets/110780412/ab6ebf31-cc86-493f-89d7-cdb4f9942b72">
 <img width="805" alt="image" src="https://github.com/Vigneshv-23/command-line-arguments-to-count-word/assets/110780412/5653aa9a-dd96-4398-a844-ebefd7747d40">
+
+
 ## RESULT:
 Thus the program is written to find the word count from the contents of a file using command line arguments.
